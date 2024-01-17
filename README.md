@@ -9,7 +9,7 @@ This repository contains my solutions and approach to the SQL Mystery challenge,
 ### 2. Analyzing the Database Schema
    - Explain how you explored the database structure (tables, columns, relationships).
    - Queries given:
-     - ![First query given](https://github.com/Skwin1/TheSQLMurderMystery/assets/107655244/ed238581-1164-405e-8ec5-ddf4e6b5809b)
+     - ![First query given](https://github.com/Skwin1/TheSQLMurderMystery/assets/107655244/dd2103a7-e747-40e7-bab0-84ca536c3da0)
      - ![Second query given](https://github.com/Skwin1/TheSQLMurderMystery/assets/107655244/35081cc4-ef71-4ff2-b3c5-04d43b0ac63a)
    -
 
